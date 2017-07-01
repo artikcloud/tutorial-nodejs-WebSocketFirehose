@@ -1,6 +1,6 @@
 # Tutorial Nodejs Websocket Firehose
 
-This is a starter code to connect to ARTIK Cloud Websocket Firehose (/live) endpoint.   By running this sample you will learn to:
+This is a starter code to connect to ARTIK Cloud [Websocket Firehose (/live)](https://developer.artik.cloud/documentation/data-management/rest-and-websockets.html#firehose-websocket) endpoint.   By running this sample you will learn to:
 
 - Connect to the ARTIK Cloud firehose websocket url.
 - Monitor realtime messages sent to ARTIK Cloud by the specified source device.
