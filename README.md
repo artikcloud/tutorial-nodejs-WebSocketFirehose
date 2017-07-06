@@ -23,7 +23,7 @@ This is a starter code to connect to ARTIK Cloud [Websocket Firehose (/live)](ht
 
 - Get the Device ID for your newly created device in the [Device Info](https://developer.artik.cloud/documentation/tools/web-tools.html#managing-a-device-token) screen.
 
-- Retrieve a [user token](https://developer.artik.cloud/documentation/getting-started/hello-world.html#step-2-get-an-access-token) via api-console.   
+- Retrieve a [user token](https://developer.artik.cloud/documentation/tools/api-console.html#find-your-user-token) via api-console.   
 
 ### Setup Project
 
