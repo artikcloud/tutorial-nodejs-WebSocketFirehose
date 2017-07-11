@@ -45,7 +45,7 @@ $ npm install
 ##### Run Project
 
 ```bash
-$ node tutorial-websocket-firehose.js
+$ node monitor.js
 ```
 
 ## Demo:
@@ -53,7 +53,7 @@ $ node tutorial-websocket-firehose.js
 1. Your terminal screen will look similar to below after you run your project.   A WebSocket connection is open and will output any messages that were sent to the device.
 
 ```bash
-$ node tutorial-websocket-firehose.js 
+$ node monitor.js 
 Connecting to:  wss://api.artik.cloud/v1.1/live?authorization=bearer+115e12&sdids=ce111c31d
 WebSocket connection is open ...
 ```
@@ -64,7 +64,7 @@ WebSocket connection is open ...
 3. Go back to your running sample application.   The terminal screen should output a message every 5 seconds:
 
 ```bash
-$ node tutorial-websocket-firehose.js 
+$ node monitor.js 
 Connecting to:  wss://api.artik.cloud/v1.1/live?authorization=bearer+115e12&sdids=ce111c31d
 WebSocket connection is open ...
 
