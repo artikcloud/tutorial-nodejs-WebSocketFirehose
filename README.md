@@ -1,9 +1,13 @@
-# Tutorial Nodejs WebSocket Firehose
+# Tutorial Nodejs Firehose WebSocket
 
-This is a starter code to connect to ARTIK Cloud [WebSocket Firehose (/live)](https://developer.artik.cloud/documentation/data-management/rest-and-websockets.html#firehose-websocket) endpoint.   By running this sample you will learn to:
+This is a starter code to connect to ARTIK Cloud [Firehose WebSocket (/live)](https://developer.artik.cloud/documentation/data-management/rest-and-websockets.html#firehose-websocket) endpoint. By running this sample you will learn to:
 
 - Connect to the ARTIK Cloud Firehose WebSocket url.
 - Monitor realtime messages sent to ARTIK Cloud by the specified source device.
+
+Consult [Node.js device channel WebSocket](https://github.com/artikcloud/tutorial-nodejs-WebSocketDevicechannel) for how to use device channel WebSocket
+
+Consult [An IoT remote control](https://developer.artik.cloud/documentation/tutorials/an-iot-remote-control.html#develop-an-android-app) for how to develop an Android monitor app.
 
 ## Requirements
 
